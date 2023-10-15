@@ -20,12 +20,12 @@ namespace App1
             InitializeComponent();
 
             EmployeeView.ItemsSource= employees;
-            employees.Add(new Employee { DisplayName = "Rafael Reynoso"});
-            employees.Add(new Employee { DisplayName = "Bill Wrestler" });
-            employees.Add(new Employee { DisplayName = "Dr. Geri-Beth Hooper" });
-            employees.Add(new Employee { DisplayName = "Dr. Keith Joyce-Purdy" });
-            employees.Add(new Employee { DisplayName = "Sheri Spruce" });
-            employees.Add(new Employee { DisplayName = "Burt Indybrick" });
+            employees.Add(new Employee { DisplayName = "Johan Osorio"});
+            employees.Add(new Employee { DisplayName = "Lionel Messi" });
+            employees.Add(new Employee { DisplayName = "Crisitano Ronaldo" });
+            employees.Add(new Employee { DisplayName = "Joao Felix" });
+            employees.Add(new Employee { DisplayName = "Robert Lewandowsky" });
+            employees.Add(new Employee { DisplayName = "Marc Andre Ter Stegen" });
 
         }
     }

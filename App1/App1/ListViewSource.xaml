@@ -9,7 +9,7 @@
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <TextCell Text="{Binding DisplayName}"
-                                  Detail="Rafael"
+                                  Detail="Johan"
                                   DetailColor="Red"
                                   TextColor="Blue">
                         </TextCell>

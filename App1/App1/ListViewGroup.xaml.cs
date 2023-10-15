@@ -28,43 +28,43 @@ namespace App1
         {
             var aList = new AlumnosGroup()
             {
-                new Alumnos() { Nombre = "Lucas", Apellido = "Perez" },
-                new Alumnos() { Nombre = "Rafael", Apellido = "Reynoso" },
-                new Alumnos() { Nombre = "John", Apellido = "Smith" },
-                new Alumnos() { Nombre = "Alejo", Apellido = "Davila" },
-                new Alumnos() { Nombre = "Gina", Apellido = "Cordova" }
+                new Alumnos() { Nombre = "Aylin", Apellido = "Tolentino" },
+                new Alumnos() { Nombre = "Jerliz", Apellido = "Cruz" },
+                new Alumnos() { Nombre = "Johan", Apellido = "Osorio" },
+                new Alumnos() { Nombre = "Maylin", Apellido = "Alice" },
+                new Alumnos() { Nombre = "Anahi", Apellido = "Damian" }
             };
             aList.Heading = "A";
 
             var bList = new AlumnosGroup()
             {
-                new Alumnos() { Nombre = "Jane", Apellido = "Doe" },
-                new Alumnos() { Nombre = "Rafael", Apellido = "Reynoso" },
-                new Alumnos() { Nombre = "Lucas", Apellido = "Vazques" }
+                new Alumnos() { Nombre = "Aylin", Apellido = "Tolentino" },
+                new Alumnos() { Nombre = "Lionel", Apellido = "Messi" },
+                new Alumnos() { Nombre = "Johan", Apellido = "Osorio" }
             };
             bList.Heading = "B";
 
             var cList = new AlumnosGroup()
             {
                 new Alumnos() { Nombre = "Tony", Apellido = "Kros" },
-                new Alumnos() { Nombre = "Rafael", Apellido = "Reynoso" },
-                new Alumnos() { Nombre = "Alvaro", Apellido = "Morata" }
+                new Alumnos() { Nombre = "Cristiano", Apellido = "Ronaldo" },
+                new Alumnos() { Nombre = "Johan", Apellido = "Osorio" }
             };
             cList.Heading = "C";
 
             var dList = new AlumnosGroup()
             {
                 new Alumnos() { Nombre = "Lionel", Apellido = "Messi" },
-                new Alumnos() { Nombre = "Rafael", Apellido = "Reynoso" },
-                new Alumnos() { Nombre = "Ronaldo", Apellido = "Santos" }
+                new Alumnos() { Nombre = "Joao", Apellido = "Felix" },
+                new Alumnos() { Nombre = "Johan", Apellido = "Osorio" }
             };
             dList.Heading = "D";
 
             var eList = new AlumnosGroup()
             {
-                new Alumnos() { Nombre = "Xabi", Apellido = "Alonso" },
-                new Alumnos() { Nombre = "Rafael", Apellido = "Reynoso" },
-                new Alumnos() { Nombre = "Ronald", Apellido = "Araujo" }
+                new Alumnos() { Nombre = "Aylin", Apellido = "Tolentino" },
+                new Alumnos() { Nombre = "Cristiano", Apellido = "Ronaldo" },
+                new Alumnos() { Nombre = "Johan", Apellido = "Osorio" }
             };
             eList.Heading = "E";
 
